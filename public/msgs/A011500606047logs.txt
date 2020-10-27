@@ -1,0 +1,7 @@
+MSH|^~\&|HHIMS|MBF|Centralized|HL7Repo|20170721030047||A01|2017072103004732849||2.2|
+PID|262785564V||||Lakindu^nanayakkara||1993-07-17|M|||Abhayapura||0112247885|
+NK1|
+PV1|9159|||||||||||||HHIMS||||||||||||||||||||||||||||||2017-07-20 19:38:13|
+OBX|6827||||||||||Critical|||2017-07-20 19:38:13|50|50|
+AL1||Blocked^lacrimal^duct^of^infant||Critical||2017-07-20 19:38:13|
+

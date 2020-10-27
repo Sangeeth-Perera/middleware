@@ -1,0 +1,7 @@
+MSH|^~\&|HHIMS|MBF|Centralized|HL7Repo|20170721035013||A01|2017072103501312863||2.2|
+PID|962785564V||||Demo^data||1994-07-17|M|||Gampaha|
+NK1|
+PV1|2750|||||||||||||HHIMS||||||||||||||||||||||||||||||2017-07-21 05:49:30|
+OBX|6776||||||||||serious|||2017-07-21 05:49:30|50|50|
+AL1||Clarification/discussion^rfe/demand,||serious||2017-07-21 05:49:30|
+

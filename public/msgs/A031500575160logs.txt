@@ -1,0 +1,7 @@
+MSH|^~\&|HHIMS|MBF|Centralized|HL7Repo|20170720182600||A03|2017072018260084044||2.2|
+PID|962785564V||||Kaushalya^perera||1994-07-17|F|||Gampaha||0112247845|||Single|
+NK1|
+PV1|7316|||||||||||||HHIMS|||79|||||||||||||||||||||||||||2017-07-20 15:55:32|2017-07-20|
+OBX|8367||||||||||Critical^situation^Fine|||2017-07-20 15:55:32|79|79|
+AL1||Lymphadenitis^acute||Critical^situation^Fine||2017-07-20 15:55:32|
+
